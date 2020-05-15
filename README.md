@@ -1,4 +1,4 @@
-# Pathfinder
+# pathfinder
 
 > This web app provides interactive visualisations of popular pathfinding algorithms like Dijkstra's algorithm, DFS and BFS in the browser.
 
