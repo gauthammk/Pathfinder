@@ -1,28 +1,36 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <v-app>
+    <v-container fluid class="text-center main-workspace white--text">
+      <h1 class="main-heading">Pathfinder</h1>
+      <Grid />
+      <Legend />
+    </v-container>
+  </v-app>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Grid from "./components/Grid";
+import Legend from "./components/Legend";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
-  }
-}
-</script>
+    Grid,
+    Legend
+  },
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  data: () => ({
+    //
+  })
+};
+</script>
+<style scoped>
+.main-workspace {
+  background-color: black !important;
+}
+.main-heading {
+  font-family: "Press Start 2P";
+  font-size: 40px;
 }
 </style>
+
