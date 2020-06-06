@@ -287,7 +287,6 @@ export default {
   flex-wrap: unset !important;
   height: 25px;
   width: 500px;
-  display: inline-block;
 }
 .grid-col {
   padding: 0px !important;

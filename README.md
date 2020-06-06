@@ -1,8 +1,10 @@
-# pathfinder
+# Pathfinder
 
-> This web app provides interactive visualisations of popular pathfinding algorithms like Dijkstra's algorithm, DFS and BFS in the browser.
+**_This web app provides interactive visualisations of popular pathfinding algorithms like Dijkstra's algorithm, DFS and BFS in the browser._**
 
-> Inspired by Clément Mihailescu's pathfinding visualisations. Check out his repo here : https://github.com/clementmihailescu/Pathfinding-Visualizer
+Check it out here!:
+
+Inspired by Clément Mihailescu's pathfinding visualisations. Check out his repo here : https://github.com/clementmihailescu/Pathfinding-Visualizer
 
 ## Project setup
 
