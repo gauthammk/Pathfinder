@@ -2,9 +2,9 @@
 
 **_This web app provides interactive visualisations of popular pathfinding algorithms like Dijkstra's algorithm, DFS and BFS in the browser._**
 
-Check it out here!:
+Check it out here! : https://gauthammk-pathfinder.netlify.app
 
-Inspired by Clément Mihailescu's pathfinding visualisations. Check out his repo here : https://github.com/clementmihailescu/Pathfinding-Visualizer
+> Inspired by Clément Mihailescu's pathfinding visualisations. Check out his repo here : https://github.com/clementmihailescu/Pathfinding-Visualizer
 
 ## Project setup
 
